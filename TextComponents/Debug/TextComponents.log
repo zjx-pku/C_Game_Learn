@@ -1,0 +1,14 @@
+﻿  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\glut.dll
+  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\glut32.dll
+  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\libpng16.dll
+  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\msvcr90.dll
+  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\YZKGame.dll
+  C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\dlls\zlib1.dll
+  复制了 6 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  Main.c
+c:\users\srxh\desktop\c_game_learn\textcomponents\main.c(11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  TextComponents.vcxproj -> C:\Users\srxh\Desktop\C_Game_Learn\TextComponents\Debug\TextComponents.exe
